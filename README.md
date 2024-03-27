@@ -1,2 +1,2 @@
-# ML_Project
-Machine Learning Application for our group project
+Facial Expression Detection Application
+Machine Learning Application
